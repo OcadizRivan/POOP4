@@ -121,10 +121,3 @@ public class POOP4 {
     }
     
 }
-
-// Proyecto POOP4 -> Mayusculas
-// Paquete poop4 -> minusculas
-// Clases -> Upper camel case
-// Variables -> Lower camel case
-
-//EL MISMO EJERCICIO DE PERRO PERO PARA EL RESTO DE DIAGRAMAS
